@@ -33,7 +33,8 @@ Deep Notes 是一个为**深度学习**、**机器学习**和**人工智能**爱
 
 - **邮箱**: [thushenhan@gmail.com](mailto:thushenhan@gmail.com)
 - **GitHub**: [@shenh10](https://github.com/shenh10)
-- **Twitter**: [@shenh10](https://twitter.com/shenh10)
+- **LinkedIn**: [@hanshe](https://www.linkedin.com/in/hanshe/)
+- **知乎**: [@han-shen-86](https://www.zhihu.com/people/han-shen-86)
 
 ---
 
