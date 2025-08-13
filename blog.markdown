@@ -37,6 +37,14 @@ description: 深度学习、机器学习和人工智能研究论文与笔记的�
 
 ### 推理优化
 - **[Step 3: Large yet Affordable Model System Co-design for Cost-effective Decoding](/llm/engineering/inference/2025-07-Step-3-is-Large-yet-Affordable-Model-system-Co-design-for-Cost-effective-Decoding.html)** - 成本效益模型解码的系统协同设计
+- **[MegaScale: Infer Serving Mixture of Experts at Scale with Disaggregated Expert Parallelism](/llm/engineering/inference/2025-07-MegaScale-Infer-Serving-Mixture-of-Experts-at-Scale-with-Disaggregated-Expert-Parallelism.html)** - 大规模专家混合模型的推理服务
+- **[Insights into DeepSeek V3: Scaling Challenges and Reflections on Hardware for AI Architecture](/llm/engineering/inference/2025-05-Insights-into-DeepSeek-V3-Scaling-Challenges-and-Reflections-on-Hardware-for-AI-Architecture.html)** - DeepSeek V3的扩展挑战与AI架构硬件思考
+
+### 预训练方法
+- **[Tensor Programs V: Tuning Large Neural Networks via Zero-Shot Hyperparameter Transfer](/llm/algorithm/pretrain/Tensor-Programs-V-Tuning-Large-Neural-Networks-via-Zero-Shot-Hyperparameter-Transfer.html)** - 通过零样本超参数迁移调优大型神经网络
+
+### 机器学习系统
+- **[Demystifying NCCL: An In-depth Analysis of GPU Communications Protocols and Algorithms](/mlsys/2025-07-Demystifying-NCCL-An-In-depth-Analysis-of-GPU-Communications-Protocols-and-Algorithms.html)** - 深入分析GPU通信协议和算法
 
 *更多论文将在此处添加，随着处理和组织完成。*
 
