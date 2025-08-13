@@ -1,23 +1,29 @@
 ---
 layout: home
-title: Deep Notes - Machine Learning & AI Resources
-description: Comprehensive notes and tutorials on deep learning, machine learning, and artificial intelligence
+title: Deep Notes - 机器学习与AI资源
+description: 深度学习、机器学习和人工智能的完整笔记与教程
 ---
 
-# Welcome to Deep Notes
+# 欢迎来到 Deep Notes
 
-A comprehensive collection of notes, tutorials, and resources on **Deep Learning**, **Machine Learning**, and **Artificial Intelligence**.
+一个关于**深度学习**、**机器学习**和**人工智能**的完整笔记、教程和资源集合。
 
-## Recent Posts
+## 最新内容
 
-Check out our latest articles and tutorials below.
+查看我们最新的文章和教程。
 
-## Categories
+## 分类目录
 
-- **LLM**: Large Language Models and Natural Language Processing
-- **MLSys**: Machine Learning Systems and Engineering
-- **Diffusions**: Diffusion Models and Generative AI
+- **LLM**: 大语言模型与自然语言处理
+- **MLSys**: 机器学习系统与工程
+- **Diffusions**: 扩散模型与生成AI
 
-## Getting Started
+## 快速开始
 
-Browse through our categorized content to find what you're looking for, or use the search functionality to explore specific topics.
+浏览我们的分类内容找到你需要的资源，或使用搜索功能探索特定主题。
+
+## 📚 研究论文
+
+**[查看研究论文集合 →](/blog/)**
+
+探索我们整理的深度学习、机器学习和人工智能研究论文，按领域分类组织。
