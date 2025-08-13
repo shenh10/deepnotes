@@ -40,6 +40,10 @@ description: 深度学习、机器学习和人工智能研究论文与笔记的�
 - **[MegaScale: Infer Serving Mixture of Experts at Scale with Disaggregated Expert Parallelism](/llm/engineering/inference/2025-07-MegaScale-Infer-Serving-Mixture-of-Experts-at-Scale-with-Disaggregated-Expert-Parallelism.html)** - 大规模专家混合模型的推理服务
 - **[Insights into DeepSeek V3: Scaling Challenges and Reflections on Hardware for AI Architecture](/llm/engineering/inference/2025-05-Insights-into-DeepSeek-V3-Scaling-Challenges-and-Reflections-on-Hardware-for-AI-Architecture.html)** - DeepSeek V3的扩展挑战与AI架构硬件思考
 
+### 训练优化
+- **[ZERO BUBBLE PIPELINE PARALLELISM](/llm/engineering/train/2023-11-ZERO-BUBBLE-PIPELINE-PARALLELISM.html)** - 零气泡流水线并行训练技术
+- **[MegaScale: Scaling Large Language Model Training to 10K GPUs](/llm/engineering/train/2024-02-MegaScale-Scaling-Large-Language-Model-Training-to.html)** - 扩展到10K GPU的大语言模型训练
+
 ### 预训练方法
 - **[Tensor Programs V: Tuning Large Neural Networks via Zero-Shot Hyperparameter Transfer](/llm/algorithm/pretrain/Tensor-Programs-V-Tuning-Large-Neural-Networks-via-Zero-Shot-Hyperparameter-Transfer.html)** - 通过零样本超参数迁移调优大型神经网络
 
