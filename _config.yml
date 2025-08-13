@@ -26,26 +26,89 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://deepnotes.github.io" # the base hostname & protocol for your site
 github_username: shenh10
 
+# Social media links
+twitter_username: shenh10
+linkedin_username: shenh10
+
+# Site metadata
+author: shenh10
+keywords: deep learning, machine learning, AI, neural networks, tutorials, notes
+language: en
+timezone: Asia/Shanghai
+
+# Site features
+show_excerpts: true
+show_related_posts: true
+show_post_categories: true
+show_post_tags: true
+
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# GitHub Pages specific settings
+lsi: false
+safe: true
+incremental: false
+highlighter: rouge
+gist:
+  noscript: false
+
+# Markdown processor settings
+markdown: kramdown
+kramdown:
+  math_engine: mathjax
+  syntax_highlighter: rouge
+  input: GFM
+  hard_wrap: false
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  enable_coderay: false
+
+# Collections
+collections:
+  posts:
+    output: true
+    permalink: /:collection/:title/
+
+# Defaults
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      author: "shenh10"
+      comments: true
+      share: true
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
 # Exclude from processing.
 # The following items will not be processed, by default.
-# Any item listed under the `exclude:` key here will be automatically added to
-# the internal "default list".
-#
-# Excluded items can be processed by explicitly listing the directories or
-# their entries' file path in the `include:` list.
-#
-# exclude:
-#   - .sass-cache/
-#   - .jekyll-cache/
-#   - gemfiles/
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules/
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - .jekyll-metadata
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - .trunk/
+  - .DS_Store
+  - README.md
+  - LICENSE
+  - .gitignore
