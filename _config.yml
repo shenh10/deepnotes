@@ -22,8 +22,8 @@ title: Deep Notes
 email: thushenhan@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Deep learning and machine learning notes, tutorials, and resources.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://deepnotes.github.io" # the base hostname & protocol for your site
+baseurl: "/deepnotes" # the subpath of your site, e.g. /blog
+url: "https://shenh10.github.io" # the base hostname & protocol for your site
 github_username: shenh10
 
 # Social media links
