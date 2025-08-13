@@ -79,8 +79,7 @@ collections:
 
 # Defaults
 defaults:
-  -
-    scope:
+  - scope:
       path: ""
       type: "posts"
     values:
@@ -88,8 +87,7 @@ defaults:
       author: "shenh10"
       comments: true
       share: true
-  -
-    scope:
+  - scope:
       path: ""
       type: "pages"
     values:
